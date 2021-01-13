@@ -1,0 +1,9 @@
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Domain/bin/Debug/netcoreapp3.1/Vaquinha.Domain.deps.json
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Domain/bin/Debug/netcoreapp3.1/Vaquinha.Domain.dll
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Domain/bin/Debug/netcoreapp3.1/Vaquinha.Domain.pdb
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Domain/obj/Debug/netcoreapp3.1/Vaquinha.Domain.csprojAssemblyReference.cache
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Domain/obj/Debug/netcoreapp3.1/Vaquinha.Domain.AssemblyInfoInputs.cache
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Domain/obj/Debug/netcoreapp3.1/Vaquinha.Domain.AssemblyInfo.cs
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Domain/obj/Debug/netcoreapp3.1/Vaquinha.Domain.csproj.CoreCompileInputs.cache
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Domain/obj/Debug/netcoreapp3.1/Vaquinha.Domain.dll
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Domain/obj/Debug/netcoreapp3.1/Vaquinha.Domain.pdb

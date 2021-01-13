@@ -1,0 +1,14 @@
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/bin/Debug/netcoreapp3.1/Vaquinha.Service.deps.json
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/bin/Debug/netcoreapp3.1/Vaquinha.Service.dll
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/bin/Debug/netcoreapp3.1/Vaquinha.Service.pdb
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/bin/Debug/netcoreapp3.1/Vaquinha.Domain.dll
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/bin/Debug/netcoreapp3.1/Vaquinha.Repository.dll
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/bin/Debug/netcoreapp3.1/Vaquinha.Repository.pdb
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/bin/Debug/netcoreapp3.1/Vaquinha.Domain.pdb
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/obj/Debug/netcoreapp3.1/Vaquinha.Service.csprojAssemblyReference.cache
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/obj/Debug/netcoreapp3.1/Vaquinha.Service.AssemblyInfoInputs.cache
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/obj/Debug/netcoreapp3.1/Vaquinha.Service.AssemblyInfo.cs
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/obj/Debug/netcoreapp3.1/Vaquinha.Service.csproj.CoreCompileInputs.cache
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/obj/Debug/netcoreapp3.1/Vaquinha.Service.csproj.CopyComplete
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/obj/Debug/netcoreapp3.1/Vaquinha.Service.dll
+/Users/walmag/Downloads/dotnet-vaquinha-tests-master/src/Vaquinha.Service/obj/Debug/netcoreapp3.1/Vaquinha.Service.pdb
